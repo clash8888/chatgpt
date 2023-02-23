@@ -12,7 +12,9 @@ ChatGPT模型是由[OpenAI](https://openai.com/)训练的大型语言模型，�
 如果你没OpenAI 账号，代理科学上网工具。可以联系我们
 
 VX：xxx
+
 QQ：xxx
+
 TG：https://t.me/www520999
 
 只需使用 README.md 文件中的提示作为 ChatGPT 的输入。您还可以使用此文件中的提示作为创建您自己的提示的灵感。
